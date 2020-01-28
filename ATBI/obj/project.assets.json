@@ -480,11 +480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cullerea\\source\\repos\\ATBI\\ATBI\\ATBI.csproj",
+      "projectUniqueName": "C:\\Users\\cullerea\\Documents\\GitHub\\ATBI\\ATBI\\ATBI.csproj",
       "projectName": "ATBI",
-      "projectPath": "C:\\Users\\cullerea\\source\\repos\\ATBI\\ATBI\\ATBI.csproj",
+      "projectPath": "C:\\Users\\cullerea\\Documents\\GitHub\\ATBI\\ATBI\\ATBI.csproj",
       "packagesPath": "C:\\Users\\cullerea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cullerea\\source\\repos\\ATBI\\ATBI\\obj\\",
+      "outputPath": "C:\\Users\\cullerea\\Documents\\GitHub\\ATBI\\ATBI\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
